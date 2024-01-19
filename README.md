@@ -5,3 +5,5 @@
 - 🌱 I’m currently learning 
 - C# - ASP.NET Core, Web API, MVC
 - TypeScript - Reactjs
+
+**--- Microsoft on love ---**
