@@ -6,4 +6,9 @@
 - C# - ASP.NET Core, Web API, MVC
 - TypeScript - Reactjs
 
+- My Stack:
+ C#, ASP.NET Core, 
+ TypeScript, React.js, 
+ PostgreSQL, MS SQL Server, Redis 
+
 **--- Microsoft one love ---**
