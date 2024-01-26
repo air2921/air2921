@@ -10,5 +10,3 @@
  C#, ASP.NET Core, 
  TypeScript, React.js, 
  PostgreSQL, MS SQL Server, Redis 
-
-**--- Microsoft one love ---**
