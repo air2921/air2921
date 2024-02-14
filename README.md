@@ -27,12 +27,14 @@ public async Task<IActionResult> GetUser([FromRoute] string username)
     };
 
     var user = await userTask;
-    var social = new 
+    var social = new
     {
         name = user.name, // Alexandr Korikov
         username = user.username, // air2921
         gmail = user.email, // StewieSolden147@gmail.com
         telegram = user.telegram // https://t.me/air2921
     };
+
+    return StatusCode(200, new { social, myStack });
 }
 ```
