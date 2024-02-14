@@ -2,11 +2,37 @@
 - 📫 Reach me via https://t.me/air2921
 - 👀 I’m interested in WEB development via ASP.NET Core and Reactjs.
 - 👯 I’m looking to collaborate on Frontend developers on Reactjs, Angular, or Vue.
-- 🌱 I’m currently learning 
-- C# - ASP.NET Core, Web API, MVC
-- TypeScript - Reactjs
 
-- My Stack:
- C#, ASP.NET Core, 
- TypeScript, React.js, 
- PostgreSQL, MS SQL Server, Redis 
+```cs
+[HttpGet("{username}")]
+public async Task<IActionResult> GetUser([FromRoute] string username)
+{
+    var userTask = _userRepository.GetByFilter(query => query.Where(u => u.username.Equals(username)));
+
+    var myStack = new
+    {
+        languages = new string[] { "C#", "linq", "TypeScript" },
+        tools = new string[] { "RESTApi/JSONApi", "Swagger", "Postman", "SignalR" },
+        frameworks = new
+        {
+            backend = new string[] { "ASP.NET Core Web API", "ASP.NET Core MVC" },
+            frontend = new string[] { "React.js", "html5", "css3" }
+        },
+        db = new
+        {
+            sql = new string[] { "PostgreSQL", "MS SQL Server" },
+            noSql = new string[] { "Redis", "MongoDb" },
+            orm = new string[] { "Entity Framework Core" }
+        }
+    };
+
+    var user = await userTask;
+    var social = new 
+    {
+        name = user.name, // Alexandr Korikov
+        username = user.username, // air2921
+        gmail = user.email, // StewieSolden147@gmail.com
+        telegram = user.telegram // https://t.me/air2921
+    };
+}
+```
