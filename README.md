@@ -11,12 +11,12 @@ public async Task<IActionResult> GetUser([FromRoute] string username)
 
     var myStack = new
     {
-        languages = new string[] { "C#", "linq", "TypeScript" },
+        languages = new string[] { "C#", "linq", "TypeScript", "html5", "css3" },
         tools = new string[] { "RESTApi/JSONApi", "Swagger", "Postman", "SignalR" },
         frameworks = new
         {
             backend = new string[] { "ASP.NET Core Web API", "ASP.NET Core MVC" },
-            frontend = new string[] { "React.js", "html5", "css3" }
+            frontend = new string[] { "React.js" }
         },
         db = new
         {
