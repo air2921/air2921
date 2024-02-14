@@ -1,7 +1,7 @@
-### 👋 Hi, I'm Alexandr Korikov AKA air2921
-- 📫 Reach me via https://t.me/air2921
-- 👀 I’m interested in WEB development via ASP.NET Core and Reactjs.
-- 👯 I’m looking to collaborate on Frontend developers on Reactjs, Angular, or Vue.
+<h2> Hi, I'm Alexandr Korikov AKA air2921 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p>👀 I’m interested in WEB development via ASP.NET Core and Reactjs.</p>
+<p>👯 I’m looking to collaborate on Frontend developers on Reactjs, Angular, or Vue.</p>
+<p>📫 Reach me via https://t.me/air2921</p>
 
 ```cs
 [HttpGet("{username}")]
