@@ -3,6 +3,19 @@
 <p><em>👀 I’m interested in WEB development via ASP.NET Core and Reactjs.
 <p><em>👯 I’m looking to collaborate on Frontend developers on Reactjs, Angular, or Vue.
 <p><em>📫 Reach me via <a href="https://t.me/air2921">telegram</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVnMWFpYTF3MTBpNnhqMjlia2lrcmVkYThnbGw4NHJ5YmpuYm1vaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wlR4kWTnwEyY8RwHKM/giphy.gif" width="30"> 
+
+<h2>My github stats</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=air2921&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![air2921's GitHub stats](https://github-readme-stats.vercel.app/api?username=air2921)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>My skills</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,html,css,postgres,redis,visualstudio,git)](https://skillicons.dev)
+
+---
+
 </div>
 
 ```cs
