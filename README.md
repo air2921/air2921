@@ -26,9 +26,8 @@ public async Task<IActionResult> GetUser([FromRoute] string username)
 
     var myStack = new
     {
-        CI/CD Pipeline && Github Actions
         languages = new string[] { "C#", "linq", "TypeScript", "html5", "css3" },
-        tools = new string[] { "RESTApi/JSONApi", "Swagger", "Postman", "SignalR", "xUnit" },
+        tools = new string[] { "RESTApi/JSONApi", "Swagger", "Postman", "SignalR", "xUnit", "CI/CD Pipeline", "Github Actions" },
         frameworks = new
         {
             backend = new string[] { "ASP.NET Core Web API", "ASP.NET Core MVC" },
