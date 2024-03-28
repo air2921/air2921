@@ -1,6 +1,8 @@
 <div align="center">
 
-<h2>Hi, I'm Alexandr Korikov AKA air2921 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Alexandr Korikov aka air2921 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+20 years old Software developer from Saint Petersburg, Russia
 
 👀 I’m interested in WEB development via ASP.NET Core and Reactjs
 
