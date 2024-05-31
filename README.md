@@ -10,6 +10,5 @@
   <h3>Github Stats ⚡</h3>
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=air2921&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=air2921&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 </div>
